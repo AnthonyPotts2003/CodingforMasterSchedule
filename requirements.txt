@@ -1,0 +1,15 @@
+# Existing packages (keep these)
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+pandas
+openpyxl
+python-dotenv
+schedule
+pywin32
+
+# Add these new packages for enhanced functionality
+pdfplumber>=0.9.0        # For PDF parsing
+numpy>=1.24.0           # Required by pandas for some operations
+jinja2>=3.1.0           # For advanced HTML templating (optional)
+python-dateutil>=2.8.2  # For better date handling
