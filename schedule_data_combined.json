@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2025-07-10T14:53:50.055040",
+  "lastUpdated": "2025-07-10T14:54:51.924815",
   "projects": {
     "Sunrise__Estates_346_Stockton": {
       "community": "Sunrise  Estates",
       "address": "346 Stockton",
       "customer_name": "Unknown",
       "sqft": "1163",
-      "lots": "Lot 81",
+      "lots": "Lot Lots 81",
       "current_phase": "other",
       "completion_percentage": 100.0,
       "schedule": [
@@ -100,7 +100,7 @@
       "address": "284 Merrick",
       "customer_name": "Unknown",
       "sqft": "1400",
-      "lots": "Lot 16",
+      "lots": "Lot Lots 16",
       "current_phase": "move",
       "completion_percentage": 100.0,
       "schedule": [
@@ -334,7 +334,7 @@
       "address": "268 Merrick",
       "customer_name": "Unknown",
       "sqft": "1400",
-      "lots": "Lot 15",
+      "lots": "Lot Lots 15",
       "current_phase": "move",
       "completion_percentage": 77.4,
       "schedule": [
@@ -668,7 +668,7 @@
       "address": "282 Stockton",
       "customer_name": "Unknown",
       "sqft": "1163",
-      "lots": "Lot 73",
+      "lots": "Lot Lots 73",
       "current_phase": "cabinets",
       "completion_percentage": 68.6,
       "schedule": [
@@ -1042,7 +1042,7 @@
       "address": "224 Stockton",
       "customer_name": "Unknown",
       "sqft": "1163",
-      "lots": "Lot 65",
+      "lots": "Lot Lots 65",
       "current_phase": "drywall",
       "completion_percentage": 68.6,
       "schedule": [
@@ -1416,7 +1416,7 @@
       "address": "4732 W Quinault",
       "customer_name": "Unknown",
       "sqft": "2648",
-      "lots": "Lot 13",
+      "lots": "Lot Lots 13",
       "current_phase": "plumbing",
       "completion_percentage": 68.6,
       "schedule": [
@@ -1790,7 +1790,7 @@
       "address": "4744 W Quinault",
       "customer_name": "Unknown",
       "sqft": "2648",
-      "lots": "Lot 11",
+      "lots": "Lot Lots 11",
       "current_phase": "framing",
       "completion_percentage": 56.0,
       "schedule": [
@@ -2064,7 +2064,7 @@
       "address": "1148 W Quinault",
       "customer_name": "Unknown",
       "sqft": "2648",
-      "lots": "Lot 3",
+      "lots": "Lot Lots 3",
       "current_phase": "other",
       "completion_percentage": 26.7,
       "schedule": [
