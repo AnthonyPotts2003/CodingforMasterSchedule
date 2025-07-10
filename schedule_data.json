@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-10T14:27:00.746189",
+  "lastUpdated": "2025-07-10T14:28:02.858946",
   "projects": {
     "Sunrise_Estates_346_Stockton": {
       "community": "Sunrise  Estates",
@@ -96,7 +96,7 @@
       "address": "284 Merrick",
       "customer_name": "Unknown",
       "sqft": "1400",
-      "current_phase": "other",
+      "current_phase": "move",
       "completion_percentage": 100.0,
       "schedule": [
         {
@@ -198,6 +198,11 @@
           "date": "2025-07-04",
           "task": "Independence Day",
           "phase": "other"
+        },
+        {
+          "date": "2025-07-07",
+          "task": "Clean/Move In",
+          "phase": "move"
         }
       ]
     },
@@ -206,7 +211,7 @@
       "address": "292 Merrick",
       "customer_name": "Unknown",
       "sqft": "1400",
-      "current_phase": "other",
+      "current_phase": "move",
       "completion_percentage": 100.0,
       "schedule": [
         {
@@ -308,6 +313,11 @@
           "date": "2025-07-04",
           "task": "Independence Day",
           "phase": "other"
+        },
+        {
+          "date": "2025-07-07",
+          "task": "Clean/Move In",
+          "phase": "move"
         }
       ]
     },
@@ -316,8 +326,8 @@
       "address": "268 Merrick",
       "customer_name": "Unknown",
       "sqft": "1400",
-      "current_phase": "other",
-      "completion_percentage": 100.0,
+      "current_phase": "move",
+      "completion_percentage": 96.0,
       "schedule": [
         {
           "date": "2025-06-09",
@@ -418,6 +428,31 @@
           "date": "2025-07-04",
           "task": "Independence Day",
           "phase": "other"
+        },
+        {
+          "date": "2025-07-07",
+          "task": "Trim",
+          "phase": "finishing"
+        },
+        {
+          "date": "2025-07-08",
+          "task": "Carpet Install",
+          "phase": "flooring"
+        },
+        {
+          "date": "2025-07-09",
+          "task": "Trim",
+          "phase": "finishing"
+        },
+        {
+          "date": "2025-07-10",
+          "task": "Cleaning",
+          "phase": "move"
+        },
+        {
+          "date": "2025-07-11",
+          "task": "Detail",
+          "phase": "finishing"
         }
       ]
     },
@@ -426,8 +461,8 @@
       "address": "276 Merrick",
       "customer_name": "Unknown",
       "sqft": "1400",
-      "current_phase": "other",
-      "completion_percentage": 100.0,
+      "current_phase": "move",
+      "completion_percentage": 96.0,
       "schedule": [
         {
           "date": "2025-06-09",
@@ -528,6 +563,31 @@
           "date": "2025-07-04",
           "task": "Independence Day",
           "phase": "other"
+        },
+        {
+          "date": "2025-07-07",
+          "task": "Trim",
+          "phase": "finishing"
+        },
+        {
+          "date": "2025-07-08",
+          "task": "Carpet Install",
+          "phase": "flooring"
+        },
+        {
+          "date": "2025-07-09",
+          "task": "Trim",
+          "phase": "finishing"
+        },
+        {
+          "date": "2025-07-10",
+          "task": "Cleaning",
+          "phase": "move"
+        },
+        {
+          "date": "2025-07-11",
+          "task": "Detail",
+          "phase": "finishing"
         }
       ]
     },
@@ -536,8 +596,8 @@
       "address": "282 Stockton",
       "customer_name": "Unknown",
       "sqft": "1163",
-      "current_phase": "other",
-      "completion_percentage": 100.0,
+      "current_phase": "cabinets",
+      "completion_percentage": 96.0,
       "schedule": [
         {
           "date": "2025-06-09",
@@ -638,6 +698,31 @@
           "date": "2025-07-04",
           "task": "Independence Day",
           "phase": "other"
+        },
+        {
+          "date": "2025-07-07",
+          "task": "Paint",
+          "phase": "painting"
+        },
+        {
+          "date": "2025-07-08",
+          "task": "Paint",
+          "phase": "painting"
+        },
+        {
+          "date": "2025-07-09",
+          "task": "Paint",
+          "phase": "painting"
+        },
+        {
+          "date": "2025-07-10",
+          "task": "Cabinet Install",
+          "phase": "cabinets"
+        },
+        {
+          "date": "2025-07-11",
+          "task": "C-Tops/B-Splsh",
+          "phase": "cabinets"
         }
       ]
     },
@@ -646,8 +731,8 @@
       "address": "290 Stockton",
       "customer_name": "Unknown",
       "sqft": "1163",
-      "current_phase": "other",
-      "completion_percentage": 100.0,
+      "current_phase": "cabinets",
+      "completion_percentage": 96.0,
       "schedule": [
         {
           "date": "2025-06-09",
@@ -748,6 +833,31 @@
           "date": "2025-07-04",
           "task": "Independence Day",
           "phase": "other"
+        },
+        {
+          "date": "2025-07-07",
+          "task": "Paint",
+          "phase": "painting"
+        },
+        {
+          "date": "2025-07-08",
+          "task": "Paint",
+          "phase": "painting"
+        },
+        {
+          "date": "2025-07-09",
+          "task": "Paint",
+          "phase": "painting"
+        },
+        {
+          "date": "2025-07-10",
+          "task": "Cabinet Install",
+          "phase": "cabinets"
+        },
+        {
+          "date": "2025-07-11",
+          "task": "C-Tops/B-Splsh",
+          "phase": "cabinets"
         }
       ]
     },
@@ -756,8 +866,8 @@
       "address": "224 Stockton",
       "customer_name": "Unknown",
       "sqft": "1163",
-      "current_phase": "other",
-      "completion_percentage": 100.0,
+      "current_phase": "drywall",
+      "completion_percentage": 96.0,
       "schedule": [
         {
           "date": "2025-06-09",
@@ -858,6 +968,31 @@
           "date": "2025-07-04",
           "task": "Independence Day",
           "phase": "other"
+        },
+        {
+          "date": "2025-07-07",
+          "task": "PVA",
+          "phase": "painting"
+        },
+        {
+          "date": "2025-07-08",
+          "task": "Flush",
+          "phase": "other"
+        },
+        {
+          "date": "2025-07-09",
+          "task": "PVA",
+          "phase": "painting"
+        },
+        {
+          "date": "2025-07-10",
+          "task": "Texture",
+          "phase": "drywall"
+        },
+        {
+          "date": "2025-07-11",
+          "task": "LVP",
+          "phase": "flooring"
         }
       ]
     },
@@ -866,8 +1001,8 @@
       "address": "230 Stockton",
       "customer_name": "Unknown",
       "sqft": "1163",
-      "current_phase": "other",
-      "completion_percentage": 100.0,
+      "current_phase": "drywall",
+      "completion_percentage": 96.0,
       "schedule": [
         {
           "date": "2025-06-09",
@@ -968,6 +1103,31 @@
           "date": "2025-07-04",
           "task": "Independence Day",
           "phase": "other"
+        },
+        {
+          "date": "2025-07-07",
+          "task": "PVA",
+          "phase": "painting"
+        },
+        {
+          "date": "2025-07-08",
+          "task": "Flush",
+          "phase": "other"
+        },
+        {
+          "date": "2025-07-09",
+          "task": "PVA",
+          "phase": "painting"
+        },
+        {
+          "date": "2025-07-10",
+          "task": "Texture",
+          "phase": "drywall"
+        },
+        {
+          "date": "2025-07-11",
+          "task": "LVP",
+          "phase": "flooring"
         }
       ]
     },
@@ -976,8 +1136,8 @@
       "address": "4732 W Quinault",
       "customer_name": "Unknown",
       "sqft": "2648",
-      "current_phase": "other",
-      "completion_percentage": 100.0,
+      "current_phase": "plumbing",
+      "completion_percentage": 96.0,
       "schedule": [
         {
           "date": "2025-06-09",
@@ -1078,6 +1238,31 @@
           "date": "2025-07-04",
           "task": "Independence Day",
           "phase": "other"
+        },
+        {
+          "date": "2025-07-07",
+          "task": "C-Tops/B-Splsh",
+          "phase": "cabinets"
+        },
+        {
+          "date": "2025-07-08",
+          "task": "C-Tops/B-Splsh",
+          "phase": "cabinets"
+        },
+        {
+          "date": "2025-07-09",
+          "task": "Finish Electrical",
+          "phase": "electrical"
+        },
+        {
+          "date": "2025-07-10",
+          "task": "Finish Plumbing",
+          "phase": "plumbing"
+        },
+        {
+          "date": "2025-07-11",
+          "task": "Finish Electrical",
+          "phase": "electrical"
         }
       ]
     },
@@ -1086,8 +1271,8 @@
       "address": "4738 W Quinault",
       "customer_name": "Unknown",
       "sqft": "2648",
-      "current_phase": "other",
-      "completion_percentage": 100.0,
+      "current_phase": "plumbing",
+      "completion_percentage": 96.0,
       "schedule": [
         {
           "date": "2025-06-09",
@@ -1188,6 +1373,31 @@
           "date": "2025-07-04",
           "task": "Independence Day",
           "phase": "other"
+        },
+        {
+          "date": "2025-07-07",
+          "task": "C-Tops/B-Splsh",
+          "phase": "cabinets"
+        },
+        {
+          "date": "2025-07-08",
+          "task": "C-Tops/B-Splsh",
+          "phase": "cabinets"
+        },
+        {
+          "date": "2025-07-09",
+          "task": "Finish Electrical",
+          "phase": "electrical"
+        },
+        {
+          "date": "2025-07-10",
+          "task": "Finish Plumbing",
+          "phase": "plumbing"
+        },
+        {
+          "date": "2025-07-11",
+          "task": "Finish Electrical",
+          "phase": "electrical"
         }
       ]
     },
@@ -1196,8 +1406,8 @@
       "address": "4744 W Quinault",
       "customer_name": "Unknown",
       "sqft": "2648",
-      "current_phase": "other",
-      "completion_percentage": 100.0,
+      "current_phase": "framing",
+      "completion_percentage": 93.3,
       "schedule": [
         {
           "date": "2025-06-23",
@@ -1248,6 +1458,31 @@
           "date": "2025-07-04",
           "task": "Independence Day",
           "phase": "other"
+        },
+        {
+          "date": "2025-07-07",
+          "task": "Framing",
+          "phase": "framing"
+        },
+        {
+          "date": "2025-07-08",
+          "task": "Framing",
+          "phase": "framing"
+        },
+        {
+          "date": "2025-07-09",
+          "task": "Framing",
+          "phase": "framing"
+        },
+        {
+          "date": "2025-07-10",
+          "task": "Framing",
+          "phase": "framing"
+        },
+        {
+          "date": "2025-07-11",
+          "task": "Framing",
+          "phase": "framing"
         }
       ]
     },
@@ -1256,8 +1491,8 @@
       "address": "4750 W Quinault",
       "customer_name": "Unknown",
       "sqft": "2648",
-      "current_phase": "other",
-      "completion_percentage": 100.0,
+      "current_phase": "framing",
+      "completion_percentage": 93.3,
       "schedule": [
         {
           "date": "2025-06-23",
@@ -1308,14 +1543,114 @@
           "date": "2025-07-04",
           "task": "Independence Day",
           "phase": "other"
+        },
+        {
+          "date": "2025-07-07",
+          "task": "Framing",
+          "phase": "framing"
+        },
+        {
+          "date": "2025-07-08",
+          "task": "Framing",
+          "phase": "framing"
+        },
+        {
+          "date": "2025-07-09",
+          "task": "Framing",
+          "phase": "framing"
+        },
+        {
+          "date": "2025-07-10",
+          "task": "Framing",
+          "phase": "framing"
+        },
+        {
+          "date": "2025-07-11",
+          "task": "Framing",
+          "phase": "framing"
+        }
+      ]
+    },
+    "Canal_Landing_1148_W_Quinault": {
+      "community": "Canal  Landing",
+      "address": "1148 W Quinault",
+      "customer_name": "Unknown",
+      "sqft": "2648",
+      "current_phase": "other",
+      "completion_percentage": 80.0,
+      "schedule": [
+        {
+          "date": "2025-07-04",
+          "task": "Independence Day",
+          "phase": "other"
+        },
+        {
+          "date": "2025-07-08",
+          "task": "Excavation",
+          "phase": "other"
+        },
+        {
+          "date": "2025-07-09",
+          "task": "Setup Forms",
+          "phase": "other"
+        },
+        {
+          "date": "2025-07-10",
+          "task": "Pour Foundy",
+          "phase": "other"
+        },
+        {
+          "date": "2025-07-11",
+          "task": "Utilities",
+          "phase": "other"
+        }
+      ]
+    },
+    "Canal_Landing_1152_W_Quinault": {
+      "community": "Canal  Landing",
+      "address": "1152 W Quinault",
+      "customer_name": "Unknown",
+      "sqft": "2648",
+      "current_phase": "other",
+      "completion_percentage": 80.0,
+      "schedule": [
+        {
+          "date": "2025-07-04",
+          "task": "Independence Day",
+          "phase": "other"
+        },
+        {
+          "date": "2025-07-08",
+          "task": "Excavation",
+          "phase": "other"
+        },
+        {
+          "date": "2025-07-09",
+          "task": "Setup Forms",
+          "phase": "other"
+        },
+        {
+          "date": "2025-07-10",
+          "task": "Pour Foundy",
+          "phase": "other"
+        },
+        {
+          "date": "2025-07-11",
+          "task": "Utilities",
+          "phase": "other"
         }
       ]
     }
   },
   "summary": {
-    "totalProjects": 14,
+    "totalProjects": 16,
     "phases": {
-      "other": 14
+      "other": 4,
+      "move": 4,
+      "cabinets": 2,
+      "drywall": 2,
+      "plumbing": 2,
+      "framing": 2
     }
   }
 }
