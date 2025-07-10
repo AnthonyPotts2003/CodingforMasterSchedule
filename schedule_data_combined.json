@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-06-18T14:54:55.116992",
+  "lastUpdated": "2025-07-10T13:38:33.906478",
   "projects": {
     "Sunrise__Estates_346_Stockton": {
       "community": "Sunrise  Estates",
@@ -7,8 +7,8 @@
       "customer_name": "Unknown",
       "sqft": "1163",
       "lots": "Lot 81",
-      "current_phase": "move",
-      "completion_percentage": 75.0,
+      "current_phase": "other",
+      "completion_percentage": 100.0,
       "schedule": [
         {
           "date": "2025-06-09",
@@ -43,11 +43,6 @@
         {
           "date": "2025-07-04",
           "task": "Independence Day",
-          "phase": "other"
-        },
-        {
-          "date": "2025-09-01",
-          "task": "Labor Day",
           "phase": "other"
         }
       ],
@@ -59,8 +54,8 @@
       "customer_name": "Unknown",
       "sqft": "1163",
       "lots": "Lot 82",
-      "current_phase": "move",
-      "completion_percentage": 75.0,
+      "current_phase": "other",
+      "completion_percentage": 100.0,
       "schedule": [
         {
           "date": "2025-06-09",
@@ -95,11 +90,6 @@
         {
           "date": "2025-07-04",
           "task": "Independence Day",
-          "phase": "other"
-        },
-        {
-          "date": "2025-09-01",
-          "task": "Labor Day",
           "phase": "other"
         }
       ],
@@ -111,8 +101,8 @@
       "customer_name": "Unknown",
       "sqft": "1400",
       "lots": "Lot 16",
-      "current_phase": "cabinets",
-      "completion_percentage": 36.4,
+      "current_phase": "move",
+      "completion_percentage": 100.0,
       "schedule": [
         {
           "date": "2025-06-09",
@@ -218,11 +208,6 @@
           "date": "2025-07-07",
           "task": "Clean/Move In",
           "phase": "move"
-        },
-        {
-          "date": "2025-09-01",
-          "task": "Labor Day",
-          "phase": "other"
         }
       ],
       "is_duplex": false
@@ -233,8 +218,8 @@
       "customer_name": "Unknown",
       "sqft": "1400",
       "lots": "Lot 17",
-      "current_phase": "cabinets",
-      "completion_percentage": 36.4,
+      "current_phase": "move",
+      "completion_percentage": 100.0,
       "schedule": [
         {
           "date": "2025-06-09",
@@ -340,11 +325,6 @@
           "date": "2025-07-07",
           "task": "Clean/Move In",
           "phase": "move"
-        },
-        {
-          "date": "2025-09-01",
-          "task": "Labor Day",
-          "phase": "other"
         }
       ],
       "is_duplex": false
@@ -355,8 +335,8 @@
       "customer_name": "Unknown",
       "sqft": "1400",
       "lots": "Lot 15",
-      "current_phase": "flooring",
-      "completion_percentage": 25.0,
+      "current_phase": "move",
+      "completion_percentage": 80.0,
       "schedule": [
         {
           "date": "2025-06-09",
@@ -507,16 +487,6 @@
           "date": "2025-07-18",
           "task": "Detail",
           "phase": "finishing"
-        },
-        {
-          "date": "2025-07-21",
-          "task": "Clean/Move In",
-          "phase": "move"
-        },
-        {
-          "date": "2025-09-01",
-          "task": "Labor Day",
-          "phase": "other"
         }
       ],
       "is_duplex": false
@@ -527,8 +497,8 @@
       "customer_name": "Unknown",
       "sqft": "1400",
       "lots": "Lot 46",
-      "current_phase": "flooring",
-      "completion_percentage": 25.0,
+      "current_phase": "move",
+      "completion_percentage": 80.0,
       "schedule": [
         {
           "date": "2025-06-09",
@@ -679,16 +649,6 @@
           "date": "2025-07-18",
           "task": "Detail",
           "phase": "finishing"
-        },
-        {
-          "date": "2025-07-21",
-          "task": "Clean/Move In",
-          "phase": "move"
-        },
-        {
-          "date": "2025-09-01",
-          "task": "Labor Day",
-          "phase": "other"
         }
       ],
       "is_duplex": false
@@ -699,8 +659,8 @@
       "customer_name": "Unknown",
       "sqft": "1163",
       "lots": "Lot 73",
-      "current_phase": "other",
-      "completion_percentage": 20.0,
+      "current_phase": "cabinets",
+      "completion_percentage": 80.0,
       "schedule": [
         {
           "date": "2025-06-09",
@@ -851,56 +811,6 @@
           "date": "2025-07-18",
           "task": "Carpet Install",
           "phase": "flooring"
-        },
-        {
-          "date": "2025-07-21",
-          "task": "Trim",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-07-22",
-          "task": "Cleaning",
-          "phase": "move"
-        },
-        {
-          "date": "2025-07-23",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-07-24",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-07-25",
-          "task": "Final Inspection",
-          "phase": "inspection"
-        },
-        {
-          "date": "2025-07-28",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-07-29",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-07-30",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-07-31",
-          "task": "Clean/Move In",
-          "phase": "move"
-        },
-        {
-          "date": "2025-09-01",
-          "task": "Labor Day",
-          "phase": "other"
         }
       ],
       "is_duplex": false
@@ -911,8 +821,8 @@
       "customer_name": "Unknown",
       "sqft": "1163",
       "lots": "Lot 74",
-      "current_phase": "other",
-      "completion_percentage": 20.0,
+      "current_phase": "cabinets",
+      "completion_percentage": 80.0,
       "schedule": [
         {
           "date": "2025-06-09",
@@ -1063,56 +973,6 @@
           "date": "2025-07-18",
           "task": "Carpet Install",
           "phase": "flooring"
-        },
-        {
-          "date": "2025-07-21",
-          "task": "Trim",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-07-22",
-          "task": "Cleaning",
-          "phase": "move"
-        },
-        {
-          "date": "2025-07-23",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-07-24",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-07-25",
-          "task": "Final Inspection",
-          "phase": "inspection"
-        },
-        {
-          "date": "2025-07-28",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-07-29",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-07-30",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-07-31",
-          "task": "Clean/Move In",
-          "phase": "move"
-        },
-        {
-          "date": "2025-09-01",
-          "task": "Labor Day",
-          "phase": "other"
         }
       ],
       "is_duplex": false
@@ -1123,8 +983,8 @@
       "customer_name": "Unknown",
       "sqft": "1163",
       "lots": "Lot 65",
-      "current_phase": "hvac",
-      "completion_percentage": 16.7,
+      "current_phase": "drywall",
+      "completion_percentage": 80.0,
       "schedule": [
         {
           "date": "2025-06-09",
@@ -1275,96 +1135,6 @@
           "date": "2025-07-18",
           "task": "Paint",
           "phase": "painting"
-        },
-        {
-          "date": "2025-07-21",
-          "task": "Paint",
-          "phase": "painting"
-        },
-        {
-          "date": "2025-07-22",
-          "task": "Cabinet Install",
-          "phase": "cabinets"
-        },
-        {
-          "date": "2025-07-23",
-          "task": "C-Tops/B-Splsh",
-          "phase": "cabinets"
-        },
-        {
-          "date": "2025-07-24",
-          "task": "C-Tops/B-Splsh",
-          "phase": "cabinets"
-        },
-        {
-          "date": "2025-07-25",
-          "task": "Finish Plumbing",
-          "phase": "plumbing"
-        },
-        {
-          "date": "2025-07-28",
-          "task": "Finish Electrical",
-          "phase": "electrical"
-        },
-        {
-          "date": "2025-07-29",
-          "task": "Carpet Prep",
-          "phase": "flooring"
-        },
-        {
-          "date": "2025-07-30",
-          "task": "Carpet Install",
-          "phase": "flooring"
-        },
-        {
-          "date": "2025-07-31",
-          "task": "Trim",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-08-01",
-          "task": "Cleaning",
-          "phase": "move"
-        },
-        {
-          "date": "2025-08-04",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-08-05",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-08-06",
-          "task": "Final Inspection",
-          "phase": "inspection"
-        },
-        {
-          "date": "2025-08-07",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-08-08",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-08-11",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-08-12",
-          "task": "Clean/Move In",
-          "phase": "move"
-        },
-        {
-          "date": "2025-09-01",
-          "task": "Labor Day",
-          "phase": "other"
         }
       ],
       "is_duplex": false
@@ -1375,8 +1145,8 @@
       "customer_name": "Unknown",
       "sqft": "1163",
       "lots": "Lot 66",
-      "current_phase": "hvac",
-      "completion_percentage": 16.7,
+      "current_phase": "drywall",
+      "completion_percentage": 80.0,
       "schedule": [
         {
           "date": "2025-06-09",
@@ -1527,96 +1297,6 @@
           "date": "2025-07-18",
           "task": "Paint",
           "phase": "painting"
-        },
-        {
-          "date": "2025-07-21",
-          "task": "Paint",
-          "phase": "painting"
-        },
-        {
-          "date": "2025-07-22",
-          "task": "Cabinet Install",
-          "phase": "cabinets"
-        },
-        {
-          "date": "2025-07-23",
-          "task": "C-Tops/B-Splsh",
-          "phase": "cabinets"
-        },
-        {
-          "date": "2025-07-24",
-          "task": "C-Tops/B-Splsh",
-          "phase": "cabinets"
-        },
-        {
-          "date": "2025-07-25",
-          "task": "Finish Plumbing",
-          "phase": "plumbing"
-        },
-        {
-          "date": "2025-07-28",
-          "task": "Finish Electrical",
-          "phase": "electrical"
-        },
-        {
-          "date": "2025-07-29",
-          "task": "Carpet Prep",
-          "phase": "flooring"
-        },
-        {
-          "date": "2025-07-30",
-          "task": "Carpet Install",
-          "phase": "flooring"
-        },
-        {
-          "date": "2025-07-31",
-          "task": "Trim",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-08-01",
-          "task": "Cleaning",
-          "phase": "move"
-        },
-        {
-          "date": "2025-08-04",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-08-05",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-08-06",
-          "task": "Final Inspection",
-          "phase": "inspection"
-        },
-        {
-          "date": "2025-08-07",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-08-08",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-08-11",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-08-12",
-          "task": "Clean/Move In",
-          "phase": "move"
-        },
-        {
-          "date": "2025-09-01",
-          "task": "Labor Day",
-          "phase": "other"
         }
       ],
       "is_duplex": false
@@ -1627,8 +1307,8 @@
       "customer_name": "Unknown",
       "sqft": "2648",
       "lots": "Lot 13",
-      "current_phase": "other",
-      "completion_percentage": 21.6,
+      "current_phase": "plumbing",
+      "completion_percentage": 80.0,
       "schedule": [
         {
           "date": "2025-06-09",
@@ -1779,41 +1459,6 @@
           "date": "2025-07-18",
           "task": "Detail",
           "phase": "finishing"
-        },
-        {
-          "date": "2025-07-21",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-07-22",
-          "task": "Final Inspection",
-          "phase": "inspection"
-        },
-        {
-          "date": "2025-07-23",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-07-24",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-07-25",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-07-28",
-          "task": "Clean/Move In",
-          "phase": "move"
-        },
-        {
-          "date": "2025-09-01",
-          "task": "Labor Day",
-          "phase": "other"
         }
       ],
       "is_duplex": false
@@ -1824,8 +1469,8 @@
       "customer_name": "Unknown",
       "sqft": "2648",
       "lots": "Lot 14",
-      "current_phase": "other",
-      "completion_percentage": 21.6,
+      "current_phase": "plumbing",
+      "completion_percentage": 80.0,
       "schedule": [
         {
           "date": "2025-06-09",
@@ -1976,41 +1621,6 @@
           "date": "2025-07-18",
           "task": "Detail",
           "phase": "finishing"
-        },
-        {
-          "date": "2025-07-21",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-07-22",
-          "task": "Final Inspection",
-          "phase": "inspection"
-        },
-        {
-          "date": "2025-07-23",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-07-24",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-07-25",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-07-28",
-          "task": "Clean/Move In",
-          "phase": "move"
-        },
-        {
-          "date": "2025-09-01",
-          "task": "Labor Day",
-          "phase": "other"
         }
       ],
       "is_duplex": false
@@ -2021,8 +1631,8 @@
       "customer_name": "Unknown",
       "sqft": "2648",
       "lots": "Lot 11",
-      "current_phase": "Planning",
-      "completion_percentage": 0.0,
+      "current_phase": "framing",
+      "completion_percentage": 70.0,
       "schedule": [
         {
           "date": "2025-06-23",
@@ -2123,221 +1733,6 @@
           "date": "2025-07-18",
           "task": "Framing",
           "phase": "framing"
-        },
-        {
-          "date": "2025-07-21",
-          "task": "Plumbing",
-          "phase": "plumbing"
-        },
-        {
-          "date": "2025-07-22",
-          "task": "Plumbing",
-          "phase": "plumbing"
-        },
-        {
-          "date": "2025-07-23",
-          "task": "Roofing",
-          "phase": "roofing"
-        },
-        {
-          "date": "2025-07-24",
-          "task": "HVAC",
-          "phase": "hvac"
-        },
-        {
-          "date": "2025-07-25",
-          "task": "HVAC",
-          "phase": "hvac"
-        },
-        {
-          "date": "2025-07-28",
-          "task": "ELEC",
-          "phase": "electrical"
-        },
-        {
-          "date": "2025-07-29",
-          "task": "ELEC",
-          "phase": "electrical"
-        },
-        {
-          "date": "2025-07-30",
-          "task": "Inspections",
-          "phase": "inspection"
-        },
-        {
-          "date": "2025-07-31",
-          "task": "Inspections",
-          "phase": "inspection"
-        },
-        {
-          "date": "2025-08-01",
-          "task": "Insulation",
-          "phase": "insulation"
-        },
-        {
-          "date": "2025-08-04",
-          "task": "Inspections",
-          "phase": "inspection"
-        },
-        {
-          "date": "2025-08-05",
-          "task": "Hang",
-          "phase": "other"
-        },
-        {
-          "date": "2025-08-06",
-          "task": "Nailing Insp",
-          "phase": "other"
-        },
-        {
-          "date": "2025-08-07",
-          "task": "Tape",
-          "phase": "drywall"
-        },
-        {
-          "date": "2025-08-08",
-          "task": "Double",
-          "phase": "other"
-        },
-        {
-          "date": "2025-08-11",
-          "task": "Flush",
-          "phase": "other"
-        },
-        {
-          "date": "2025-08-12",
-          "task": "Flush",
-          "phase": "other"
-        },
-        {
-          "date": "2025-08-13",
-          "task": "PVA",
-          "phase": "painting"
-        },
-        {
-          "date": "2025-08-14",
-          "task": "Texture",
-          "phase": "drywall"
-        },
-        {
-          "date": "2025-08-15",
-          "task": "LVP",
-          "phase": "flooring"
-        },
-        {
-          "date": "2025-08-18",
-          "task": "LVP",
-          "phase": "flooring"
-        },
-        {
-          "date": "2025-08-19",
-          "task": "LVP",
-          "phase": "flooring"
-        },
-        {
-          "date": "2025-08-20",
-          "task": "Trim",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-08-21",
-          "task": "Paint",
-          "phase": "painting"
-        },
-        {
-          "date": "2025-08-22",
-          "task": "Paint",
-          "phase": "painting"
-        },
-        {
-          "date": "2025-08-25",
-          "task": "Paint",
-          "phase": "painting"
-        },
-        {
-          "date": "2025-08-26",
-          "task": "Cabinet Install",
-          "phase": "cabinets"
-        },
-        {
-          "date": "2025-08-27",
-          "task": "C-Tops/B-Splsh",
-          "phase": "cabinets"
-        },
-        {
-          "date": "2025-08-28",
-          "task": "C-Tops/B-Splsh",
-          "phase": "cabinets"
-        },
-        {
-          "date": "2025-08-29",
-          "task": "Finish Plumbing",
-          "phase": "plumbing"
-        },
-        {
-          "date": "2025-09-01",
-          "task": "Labor Day",
-          "phase": "other"
-        },
-        {
-          "date": "2025-09-02",
-          "task": "Finish Electrical",
-          "phase": "electrical"
-        },
-        {
-          "date": "2025-09-03",
-          "task": "Carpet Prep",
-          "phase": "flooring"
-        },
-        {
-          "date": "2025-09-04",
-          "task": "Carpet Install",
-          "phase": "flooring"
-        },
-        {
-          "date": "2025-09-05",
-          "task": "Trim",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-09-08",
-          "task": "Cleaning",
-          "phase": "move"
-        },
-        {
-          "date": "2025-09-09",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-09-10",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-09-11",
-          "task": "Final Inspection",
-          "phase": "inspection"
-        },
-        {
-          "date": "2025-09-12",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-09-15",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-09-16",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-09-17",
-          "task": "Clean/Move In",
-          "phase": "move"
         }
       ],
       "is_duplex": false
@@ -2348,8 +1743,8 @@
       "customer_name": "Unknown",
       "sqft": "2648",
       "lots": "Lot 12",
-      "current_phase": "Planning",
-      "completion_percentage": 0.0,
+      "current_phase": "framing",
+      "completion_percentage": 70.0,
       "schedule": [
         {
           "date": "2025-06-23",
@@ -2450,221 +1845,6 @@
           "date": "2025-07-18",
           "task": "Framing",
           "phase": "framing"
-        },
-        {
-          "date": "2025-07-21",
-          "task": "Plumbing",
-          "phase": "plumbing"
-        },
-        {
-          "date": "2025-07-22",
-          "task": "Plumbing",
-          "phase": "plumbing"
-        },
-        {
-          "date": "2025-07-23",
-          "task": "Roofing",
-          "phase": "roofing"
-        },
-        {
-          "date": "2025-07-24",
-          "task": "HVAC",
-          "phase": "hvac"
-        },
-        {
-          "date": "2025-07-25",
-          "task": "HVAC",
-          "phase": "hvac"
-        },
-        {
-          "date": "2025-07-28",
-          "task": "ELEC",
-          "phase": "electrical"
-        },
-        {
-          "date": "2025-07-29",
-          "task": "ELEC",
-          "phase": "electrical"
-        },
-        {
-          "date": "2025-07-30",
-          "task": "Inspections",
-          "phase": "inspection"
-        },
-        {
-          "date": "2025-07-31",
-          "task": "Inspections",
-          "phase": "inspection"
-        },
-        {
-          "date": "2025-08-01",
-          "task": "Insulation",
-          "phase": "insulation"
-        },
-        {
-          "date": "2025-08-04",
-          "task": "Inspections",
-          "phase": "inspection"
-        },
-        {
-          "date": "2025-08-05",
-          "task": "Hang",
-          "phase": "other"
-        },
-        {
-          "date": "2025-08-06",
-          "task": "Nailing Insp",
-          "phase": "other"
-        },
-        {
-          "date": "2025-08-07",
-          "task": "Tape",
-          "phase": "drywall"
-        },
-        {
-          "date": "2025-08-08",
-          "task": "Double",
-          "phase": "other"
-        },
-        {
-          "date": "2025-08-11",
-          "task": "Flush",
-          "phase": "other"
-        },
-        {
-          "date": "2025-08-12",
-          "task": "Flush",
-          "phase": "other"
-        },
-        {
-          "date": "2025-08-13",
-          "task": "PVA",
-          "phase": "painting"
-        },
-        {
-          "date": "2025-08-14",
-          "task": "Texture",
-          "phase": "drywall"
-        },
-        {
-          "date": "2025-08-15",
-          "task": "LVP",
-          "phase": "flooring"
-        },
-        {
-          "date": "2025-08-18",
-          "task": "LVP",
-          "phase": "flooring"
-        },
-        {
-          "date": "2025-08-19",
-          "task": "LVP",
-          "phase": "flooring"
-        },
-        {
-          "date": "2025-08-20",
-          "task": "Trim",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-08-21",
-          "task": "Paint",
-          "phase": "painting"
-        },
-        {
-          "date": "2025-08-22",
-          "task": "Paint",
-          "phase": "painting"
-        },
-        {
-          "date": "2025-08-25",
-          "task": "Paint",
-          "phase": "painting"
-        },
-        {
-          "date": "2025-08-26",
-          "task": "Cabinet Install",
-          "phase": "cabinets"
-        },
-        {
-          "date": "2025-08-27",
-          "task": "C-Tops/B-Splsh",
-          "phase": "cabinets"
-        },
-        {
-          "date": "2025-08-28",
-          "task": "C-Tops/B-Splsh",
-          "phase": "cabinets"
-        },
-        {
-          "date": "2025-08-29",
-          "task": "Finish Plumbing",
-          "phase": "plumbing"
-        },
-        {
-          "date": "2025-09-01",
-          "task": "Labor Day",
-          "phase": "other"
-        },
-        {
-          "date": "2025-09-02",
-          "task": "Finish Electrical",
-          "phase": "electrical"
-        },
-        {
-          "date": "2025-09-03",
-          "task": "Carpet Prep",
-          "phase": "flooring"
-        },
-        {
-          "date": "2025-09-04",
-          "task": "Carpet Install",
-          "phase": "flooring"
-        },
-        {
-          "date": "2025-09-05",
-          "task": "Trim",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-09-08",
-          "task": "Cleaning",
-          "phase": "move"
-        },
-        {
-          "date": "2025-09-09",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-09-10",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-09-11",
-          "task": "Final Inspection",
-          "phase": "inspection"
-        },
-        {
-          "date": "2025-09-12",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-09-15",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-09-16",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-09-17",
-          "task": "Clean/Move In",
-          "phase": "move"
         }
       ],
       "is_duplex": false
@@ -2675,8 +1855,8 @@
       "customer_name": "Unknown",
       "sqft": "2648",
       "lots": "Lot 3",
-      "current_phase": "Planning",
-      "completion_percentage": 0.0,
+      "current_phase": "other",
+      "completion_percentage": 40.0,
       "schedule": [
         {
           "date": "2025-07-04",
@@ -2727,271 +1907,6 @@
           "date": "2025-07-18",
           "task": "Pour Slab",
           "phase": "foundation"
-        },
-        {
-          "date": "2025-07-21",
-          "task": "Framing",
-          "phase": "framing"
-        },
-        {
-          "date": "2025-07-22",
-          "task": "Framing",
-          "phase": "framing"
-        },
-        {
-          "date": "2025-07-23",
-          "task": "Framing",
-          "phase": "framing"
-        },
-        {
-          "date": "2025-07-24",
-          "task": "Framing",
-          "phase": "framing"
-        },
-        {
-          "date": "2025-07-25",
-          "task": "Framing",
-          "phase": "framing"
-        },
-        {
-          "date": "2025-07-28",
-          "task": "Framing",
-          "phase": "framing"
-        },
-        {
-          "date": "2025-07-29",
-          "task": "Framing",
-          "phase": "framing"
-        },
-        {
-          "date": "2025-07-30",
-          "task": "Framing",
-          "phase": "framing"
-        },
-        {
-          "date": "2025-07-31",
-          "task": "Framing",
-          "phase": "framing"
-        },
-        {
-          "date": "2025-08-01",
-          "task": "Framing",
-          "phase": "framing"
-        },
-        {
-          "date": "2025-08-04",
-          "task": "Plumbing",
-          "phase": "plumbing"
-        },
-        {
-          "date": "2025-08-05",
-          "task": "Plumbing",
-          "phase": "plumbing"
-        },
-        {
-          "date": "2025-08-06",
-          "task": "Roofing",
-          "phase": "roofing"
-        },
-        {
-          "date": "2025-08-07",
-          "task": "HVAC",
-          "phase": "hvac"
-        },
-        {
-          "date": "2025-08-08",
-          "task": "HVAC",
-          "phase": "hvac"
-        },
-        {
-          "date": "2025-08-11",
-          "task": "ELEC",
-          "phase": "electrical"
-        },
-        {
-          "date": "2025-08-12",
-          "task": "ELEC",
-          "phase": "electrical"
-        },
-        {
-          "date": "2025-08-13",
-          "task": "Inspections",
-          "phase": "inspection"
-        },
-        {
-          "date": "2025-08-14",
-          "task": "Inspections",
-          "phase": "inspection"
-        },
-        {
-          "date": "2025-08-15",
-          "task": "Insulation",
-          "phase": "insulation"
-        },
-        {
-          "date": "2025-08-18",
-          "task": "Inspections",
-          "phase": "inspection"
-        },
-        {
-          "date": "2025-08-19",
-          "task": "Hang",
-          "phase": "other"
-        },
-        {
-          "date": "2025-08-20",
-          "task": "Nailing Insp",
-          "phase": "other"
-        },
-        {
-          "date": "2025-08-21",
-          "task": "Tape",
-          "phase": "drywall"
-        },
-        {
-          "date": "2025-08-22",
-          "task": "Double",
-          "phase": "other"
-        },
-        {
-          "date": "2025-08-25",
-          "task": "Flush",
-          "phase": "other"
-        },
-        {
-          "date": "2025-08-26",
-          "task": "Flush",
-          "phase": "other"
-        },
-        {
-          "date": "2025-08-27",
-          "task": "PVA",
-          "phase": "painting"
-        },
-        {
-          "date": "2025-08-28",
-          "task": "Texture",
-          "phase": "drywall"
-        },
-        {
-          "date": "2025-08-29",
-          "task": "LVP",
-          "phase": "flooring"
-        },
-        {
-          "date": "2025-09-01",
-          "task": "Labor Day",
-          "phase": "other"
-        },
-        {
-          "date": "2025-09-02",
-          "task": "LVP",
-          "phase": "flooring"
-        },
-        {
-          "date": "2025-09-03",
-          "task": "LVP",
-          "phase": "flooring"
-        },
-        {
-          "date": "2025-09-04",
-          "task": "Trim",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-09-05",
-          "task": "Paint",
-          "phase": "painting"
-        },
-        {
-          "date": "2025-09-08",
-          "task": "Paint",
-          "phase": "painting"
-        },
-        {
-          "date": "2025-09-09",
-          "task": "Paint",
-          "phase": "painting"
-        },
-        {
-          "date": "2025-09-10",
-          "task": "Cabinet Install",
-          "phase": "cabinets"
-        },
-        {
-          "date": "2025-09-11",
-          "task": "C-Tops/B-Splsh",
-          "phase": "cabinets"
-        },
-        {
-          "date": "2025-09-12",
-          "task": "C-Tops/B-Splsh",
-          "phase": "cabinets"
-        },
-        {
-          "date": "2025-09-15",
-          "task": "Finish Plumbing",
-          "phase": "plumbing"
-        },
-        {
-          "date": "2025-09-16",
-          "task": "Finish Electrical",
-          "phase": "electrical"
-        },
-        {
-          "date": "2025-09-17",
-          "task": "Carpet Prep",
-          "phase": "flooring"
-        },
-        {
-          "date": "2025-09-18",
-          "task": "Carpet Install",
-          "phase": "flooring"
-        },
-        {
-          "date": "2025-09-19",
-          "task": "Trim",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-09-22",
-          "task": "Cleaning",
-          "phase": "move"
-        },
-        {
-          "date": "2025-09-23",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-09-24",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-09-25",
-          "task": "Final Inspection",
-          "phase": "inspection"
-        },
-        {
-          "date": "2025-09-26",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-09-29",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-09-30",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-10-01",
-          "task": "Clean/Move In",
-          "phase": "move"
         }
       ],
       "is_duplex": false
@@ -3002,8 +1917,8 @@
       "customer_name": "Unknown",
       "sqft": "2648",
       "lots": "Lot 4",
-      "current_phase": "Planning",
-      "completion_percentage": 0.0,
+      "current_phase": "other",
+      "completion_percentage": 40.0,
       "schedule": [
         {
           "date": "2025-07-04",
@@ -3054,271 +1969,6 @@
           "date": "2025-07-18",
           "task": "Pour Slab",
           "phase": "foundation"
-        },
-        {
-          "date": "2025-07-21",
-          "task": "Framing",
-          "phase": "framing"
-        },
-        {
-          "date": "2025-07-22",
-          "task": "Framing",
-          "phase": "framing"
-        },
-        {
-          "date": "2025-07-23",
-          "task": "Framing",
-          "phase": "framing"
-        },
-        {
-          "date": "2025-07-24",
-          "task": "Framing",
-          "phase": "framing"
-        },
-        {
-          "date": "2025-07-25",
-          "task": "Framing",
-          "phase": "framing"
-        },
-        {
-          "date": "2025-07-28",
-          "task": "Framing",
-          "phase": "framing"
-        },
-        {
-          "date": "2025-07-29",
-          "task": "Framing",
-          "phase": "framing"
-        },
-        {
-          "date": "2025-07-30",
-          "task": "Framing",
-          "phase": "framing"
-        },
-        {
-          "date": "2025-07-31",
-          "task": "Framing",
-          "phase": "framing"
-        },
-        {
-          "date": "2025-08-01",
-          "task": "Framing",
-          "phase": "framing"
-        },
-        {
-          "date": "2025-08-04",
-          "task": "Plumbing",
-          "phase": "plumbing"
-        },
-        {
-          "date": "2025-08-05",
-          "task": "Plumbing",
-          "phase": "plumbing"
-        },
-        {
-          "date": "2025-08-06",
-          "task": "Roofing",
-          "phase": "roofing"
-        },
-        {
-          "date": "2025-08-07",
-          "task": "HVAC",
-          "phase": "hvac"
-        },
-        {
-          "date": "2025-08-08",
-          "task": "HVAC",
-          "phase": "hvac"
-        },
-        {
-          "date": "2025-08-11",
-          "task": "ELEC",
-          "phase": "electrical"
-        },
-        {
-          "date": "2025-08-12",
-          "task": "ELEC",
-          "phase": "electrical"
-        },
-        {
-          "date": "2025-08-13",
-          "task": "Inspections",
-          "phase": "inspection"
-        },
-        {
-          "date": "2025-08-14",
-          "task": "Inspections",
-          "phase": "inspection"
-        },
-        {
-          "date": "2025-08-15",
-          "task": "Insulation",
-          "phase": "insulation"
-        },
-        {
-          "date": "2025-08-18",
-          "task": "Inspections",
-          "phase": "inspection"
-        },
-        {
-          "date": "2025-08-19",
-          "task": "Hang",
-          "phase": "other"
-        },
-        {
-          "date": "2025-08-20",
-          "task": "Nailing Insp",
-          "phase": "other"
-        },
-        {
-          "date": "2025-08-21",
-          "task": "Tape",
-          "phase": "drywall"
-        },
-        {
-          "date": "2025-08-22",
-          "task": "Double",
-          "phase": "other"
-        },
-        {
-          "date": "2025-08-25",
-          "task": "Flush",
-          "phase": "other"
-        },
-        {
-          "date": "2025-08-26",
-          "task": "Flush",
-          "phase": "other"
-        },
-        {
-          "date": "2025-08-27",
-          "task": "PVA",
-          "phase": "painting"
-        },
-        {
-          "date": "2025-08-28",
-          "task": "Texture",
-          "phase": "drywall"
-        },
-        {
-          "date": "2025-08-29",
-          "task": "LVP",
-          "phase": "flooring"
-        },
-        {
-          "date": "2025-09-01",
-          "task": "Labor Day",
-          "phase": "other"
-        },
-        {
-          "date": "2025-09-02",
-          "task": "LVP",
-          "phase": "flooring"
-        },
-        {
-          "date": "2025-09-03",
-          "task": "LVP",
-          "phase": "flooring"
-        },
-        {
-          "date": "2025-09-04",
-          "task": "Trim",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-09-05",
-          "task": "Paint",
-          "phase": "painting"
-        },
-        {
-          "date": "2025-09-08",
-          "task": "Paint",
-          "phase": "painting"
-        },
-        {
-          "date": "2025-09-09",
-          "task": "Paint",
-          "phase": "painting"
-        },
-        {
-          "date": "2025-09-10",
-          "task": "Cabinet Install",
-          "phase": "cabinets"
-        },
-        {
-          "date": "2025-09-11",
-          "task": "C-Tops/B-Splsh",
-          "phase": "cabinets"
-        },
-        {
-          "date": "2025-09-12",
-          "task": "C-Tops/B-Splsh",
-          "phase": "cabinets"
-        },
-        {
-          "date": "2025-09-15",
-          "task": "Finish Plumbing",
-          "phase": "plumbing"
-        },
-        {
-          "date": "2025-09-16",
-          "task": "Finish Electrical",
-          "phase": "electrical"
-        },
-        {
-          "date": "2025-09-17",
-          "task": "Carpet Prep",
-          "phase": "flooring"
-        },
-        {
-          "date": "2025-09-18",
-          "task": "Carpet Install",
-          "phase": "flooring"
-        },
-        {
-          "date": "2025-09-19",
-          "task": "Trim",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-09-22",
-          "task": "Cleaning",
-          "phase": "move"
-        },
-        {
-          "date": "2025-09-23",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-09-24",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-09-25",
-          "task": "Final Inspection",
-          "phase": "inspection"
-        },
-        {
-          "date": "2025-09-26",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-09-29",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-09-30",
-          "task": "Detail",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-10-01",
-          "task": "Clean/Move In",
-          "phase": "move"
         }
       ],
       "is_duplex": false
@@ -3327,12 +1977,12 @@
   "summary": {
     "totalProjects": 16,
     "phases": {
-      "move": 2,
-      "cabinets": 2,
-      "flooring": 2,
       "other": 4,
-      "hvac": 2,
-      "Planning": 4
+      "move": 4,
+      "cabinets": 2,
+      "drywall": 2,
+      "plumbing": 2,
+      "framing": 2
     }
   }
 }
