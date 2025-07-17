@@ -1,13 +1,14 @@
 {
-  "lastUpdated": "2025-07-10T15:07:15.225823",
-  "projects": {
-    "Sunrise_Estates_346_Stockton": {
-      "community": "Sunrise  Estates",
+  "export_date": "2025-07-17 15:23:26",
+  "projects": [
+    {
+      "project_id": "346",
       "address": "346 Stockton",
-      "customer_name": "Unknown",
+      "community": "Sunrise  Estates",
+      "lots": "Lots 81",
       "sqft": "1163",
-      "current_phase": "other",
-      "completion_percentage": 100.0,
+      "features": "With Carport",
+      "column_index": 115,
       "schedule": [
         {
           "date": "2025-06-09",
@@ -46,13 +47,14 @@
         }
       ]
     },
-    "Sunrise_Estates_354_Stockton": {
-      "community": "Sunrise  Estates",
+    {
+      "project_id": "354",
       "address": "354 Stockton",
-      "customer_name": "Unknown",
+      "community": "Sunrise  Estates",
+      "lots": "82",
       "sqft": "1163",
-      "current_phase": "other",
-      "completion_percentage": 100.0,
+      "features": "With Carport",
+      "column_index": 115,
       "schedule": [
         {
           "date": "2025-06-09",
@@ -91,13 +93,14 @@
         }
       ]
     },
-    "Sunrise_Estates_284_Merrick": {
-      "community": "Sunrise  Estates",
+    {
+      "project_id": "284",
       "address": "284 Merrick",
-      "customer_name": "Unknown",
+      "community": "Sunrise  Estates",
+      "lots": "Lots 16",
       "sqft": "1400",
-      "current_phase": "move",
-      "completion_percentage": 100.0,
+      "features": "With Carport",
+      "column_index": 116,
       "schedule": [
         {
           "date": "2025-06-09",
@@ -206,13 +209,14 @@
         }
       ]
     },
-    "Sunrise_Estates_292_Merrick": {
-      "community": "Sunrise  Estates",
+    {
+      "project_id": "292",
       "address": "292 Merrick",
-      "customer_name": "Unknown",
+      "community": "Sunrise  Estates",
+      "lots": "17",
       "sqft": "1400",
-      "current_phase": "move",
-      "completion_percentage": 100.0,
+      "features": "With Carport",
+      "column_index": 116,
       "schedule": [
         {
           "date": "2025-06-09",
@@ -321,13 +325,14 @@
         }
       ]
     },
-    "Sunrise_Estates_268_Merrick": {
-      "community": "Sunrise  Estates",
+    {
+      "project_id": "268",
       "address": "268 Merrick",
-      "customer_name": "Unknown",
+      "community": "Sunrise  Estates",
+      "lots": "Lots 15",
       "sqft": "1400",
-      "current_phase": "move",
-      "completion_percentage": 77.4,
+      "features": "With Carport",
+      "column_index": 117,
       "schedule": [
         {
           "date": "2025-06-09",
@@ -486,13 +491,14 @@
         }
       ]
     },
-    "Sunrise_Estates_276_Merrick": {
-      "community": "Sunrise  Estates",
+    {
+      "project_id": "276",
       "address": "276 Merrick",
-      "customer_name": "Unknown",
+      "community": "Sunrise  Estates",
+      "lots": "46",
       "sqft": "1400",
-      "current_phase": "move",
-      "completion_percentage": 77.4,
+      "features": "With Carport",
+      "column_index": 117,
       "schedule": [
         {
           "date": "2025-06-09",
@@ -651,13 +657,14 @@
         }
       ]
     },
-    "Sunrise_Estates_282_Stockton": {
-      "community": "Sunrise  Estates",
+    {
+      "project_id": "282",
       "address": "282 Stockton",
-      "customer_name": "Unknown",
+      "community": "Sunrise  Estates",
+      "lots": "Lots 73",
       "sqft": "1163",
-      "current_phase": "cabinets",
-      "completion_percentage": 68.6,
+      "features": "With Carport",
+      "column_index": 118,
       "schedule": [
         {
           "date": "2025-06-09",
@@ -836,13 +843,14 @@
         }
       ]
     },
-    "Sunrise_Estates_290_Stockton": {
-      "community": "Sunrise  Estates",
+    {
+      "project_id": "290",
       "address": "290 Stockton",
-      "customer_name": "Unknown",
+      "community": "Sunrise  Estates",
+      "lots": "74",
       "sqft": "1163",
-      "current_phase": "cabinets",
-      "completion_percentage": 68.6,
+      "features": "With Carport",
+      "column_index": 118,
       "schedule": [
         {
           "date": "2025-06-09",
@@ -1021,198 +1029,14 @@
         }
       ]
     },
-    "Sunrise_Estates_224_Stockton": {
-      "community": "Sunrise  Estates",
+    {
+      "project_id": "224",
       "address": "224 Stockton",
-      "customer_name": "Unknown",
-      "sqft": "1163",
-      "current_phase": "drywall",
-      "completion_percentage": 68.6,
-      "schedule": [
-        {
-          "date": "2025-06-09",
-          "task": "Framing",
-          "phase": "framing"
-        },
-        {
-          "date": "2025-06-10",
-          "task": "Framing",
-          "phase": "framing"
-        },
-        {
-          "date": "2025-06-11",
-          "task": "Framing",
-          "phase": "framing"
-        },
-        {
-          "date": "2025-06-12",
-          "task": "Plumbing",
-          "phase": "plumbing"
-        },
-        {
-          "date": "2025-06-13",
-          "task": "Plumbing",
-          "phase": "plumbing"
-        },
-        {
-          "date": "2025-06-16",
-          "task": "Roofing",
-          "phase": "roofing"
-        },
-        {
-          "date": "2025-06-17",
-          "task": "HVAC",
-          "phase": "hvac"
-        },
-        {
-          "date": "2025-06-18",
-          "task": "HVAC",
-          "phase": "hvac"
-        },
-        {
-          "date": "2025-06-19",
-          "task": "ELEC",
-          "phase": "electrical"
-        },
-        {
-          "date": "2025-06-20",
-          "task": "ELEC",
-          "phase": "electrical"
-        },
-        {
-          "date": "2025-06-23",
-          "task": "Inspections",
-          "phase": "inspection"
-        },
-        {
-          "date": "2025-06-24",
-          "task": "Inspections",
-          "phase": "inspection"
-        },
-        {
-          "date": "2025-06-25",
-          "task": "Insulation",
-          "phase": "insulation"
-        },
-        {
-          "date": "2025-06-26",
-          "task": "Inspections",
-          "phase": "inspection"
-        },
-        {
-          "date": "2025-06-27",
-          "task": "Hang",
-          "phase": "other"
-        },
-        {
-          "date": "2025-06-30",
-          "task": "Nailing Insp",
-          "phase": "other"
-        },
-        {
-          "date": "2025-07-01",
-          "task": "Tape",
-          "phase": "drywall"
-        },
-        {
-          "date": "2025-07-02",
-          "task": "Double",
-          "phase": "other"
-        },
-        {
-          "date": "2025-07-03",
-          "task": "Flush",
-          "phase": "other"
-        },
-        {
-          "date": "2025-07-04",
-          "task": "Independence Day",
-          "phase": "other"
-        },
-        {
-          "date": "2025-07-07",
-          "task": "PVA",
-          "phase": "painting"
-        },
-        {
-          "date": "2025-07-08",
-          "task": "Flush",
-          "phase": "other"
-        },
-        {
-          "date": "2025-07-09",
-          "task": "PVA",
-          "phase": "painting"
-        },
-        {
-          "date": "2025-07-10",
-          "task": "Texture",
-          "phase": "drywall"
-        },
-        {
-          "date": "2025-07-11",
-          "task": "LVP",
-          "phase": "flooring"
-        },
-        {
-          "date": "2025-07-14",
-          "task": "LVP",
-          "phase": "flooring"
-        },
-        {
-          "date": "2025-07-15",
-          "task": "LVP",
-          "phase": "flooring"
-        },
-        {
-          "date": "2025-07-16",
-          "task": "Trim",
-          "phase": "finishing"
-        },
-        {
-          "date": "2025-07-17",
-          "task": "Paint",
-          "phase": "painting"
-        },
-        {
-          "date": "2025-07-18",
-          "task": "Paint",
-          "phase": "painting"
-        },
-        {
-          "date": "2025-07-21",
-          "task": "Paint",
-          "phase": "painting"
-        },
-        {
-          "date": "2025-07-22",
-          "task": "Cabinet Install",
-          "phase": "cabinets"
-        },
-        {
-          "date": "2025-07-23",
-          "task": "C-Tops/B-Splsh",
-          "phase": "cabinets"
-        },
-        {
-          "date": "2025-07-24",
-          "task": "C-Tops/B-Splsh",
-          "phase": "cabinets"
-        },
-        {
-          "date": "2025-07-25",
-          "task": "Finish Plumbing",
-          "phase": "plumbing"
-        }
-      ]
-    },
-    "Sunrise_Estates_230_Stockton": {
       "community": "Sunrise  Estates",
-      "address": "230 Stockton",
-      "customer_name": "Unknown",
+      "lots": "Lots 65",
       "sqft": "1163",
-      "current_phase": "drywall",
-      "completion_percentage": 68.6,
+      "features": "With Carport",
+      "column_index": 119,
       "schedule": [
         {
           "date": "2025-06-09",
@@ -1391,13 +1215,200 @@
         }
       ]
     },
-    "Canal_Landing_4732_W_Quinault": {
-      "community": "Canal  Landing",
+    {
+      "project_id": "230",
+      "address": "230 Stockton",
+      "community": "Sunrise  Estates",
+      "lots": "66",
+      "sqft": "1163",
+      "features": "With Carport",
+      "column_index": 119,
+      "schedule": [
+        {
+          "date": "2025-06-09",
+          "task": "Framing",
+          "phase": "framing"
+        },
+        {
+          "date": "2025-06-10",
+          "task": "Framing",
+          "phase": "framing"
+        },
+        {
+          "date": "2025-06-11",
+          "task": "Framing",
+          "phase": "framing"
+        },
+        {
+          "date": "2025-06-12",
+          "task": "Plumbing",
+          "phase": "plumbing"
+        },
+        {
+          "date": "2025-06-13",
+          "task": "Plumbing",
+          "phase": "plumbing"
+        },
+        {
+          "date": "2025-06-16",
+          "task": "Roofing",
+          "phase": "roofing"
+        },
+        {
+          "date": "2025-06-17",
+          "task": "HVAC",
+          "phase": "hvac"
+        },
+        {
+          "date": "2025-06-18",
+          "task": "HVAC",
+          "phase": "hvac"
+        },
+        {
+          "date": "2025-06-19",
+          "task": "ELEC",
+          "phase": "electrical"
+        },
+        {
+          "date": "2025-06-20",
+          "task": "ELEC",
+          "phase": "electrical"
+        },
+        {
+          "date": "2025-06-23",
+          "task": "Inspections",
+          "phase": "inspection"
+        },
+        {
+          "date": "2025-06-24",
+          "task": "Inspections",
+          "phase": "inspection"
+        },
+        {
+          "date": "2025-06-25",
+          "task": "Insulation",
+          "phase": "insulation"
+        },
+        {
+          "date": "2025-06-26",
+          "task": "Inspections",
+          "phase": "inspection"
+        },
+        {
+          "date": "2025-06-27",
+          "task": "Hang",
+          "phase": "other"
+        },
+        {
+          "date": "2025-06-30",
+          "task": "Nailing Insp",
+          "phase": "other"
+        },
+        {
+          "date": "2025-07-01",
+          "task": "Tape",
+          "phase": "drywall"
+        },
+        {
+          "date": "2025-07-02",
+          "task": "Double",
+          "phase": "other"
+        },
+        {
+          "date": "2025-07-03",
+          "task": "Flush",
+          "phase": "other"
+        },
+        {
+          "date": "2025-07-04",
+          "task": "Independence Day",
+          "phase": "other"
+        },
+        {
+          "date": "2025-07-07",
+          "task": "PVA",
+          "phase": "painting"
+        },
+        {
+          "date": "2025-07-08",
+          "task": "Flush",
+          "phase": "other"
+        },
+        {
+          "date": "2025-07-09",
+          "task": "PVA",
+          "phase": "painting"
+        },
+        {
+          "date": "2025-07-10",
+          "task": "Texture",
+          "phase": "drywall"
+        },
+        {
+          "date": "2025-07-11",
+          "task": "LVP",
+          "phase": "flooring"
+        },
+        {
+          "date": "2025-07-14",
+          "task": "LVP",
+          "phase": "flooring"
+        },
+        {
+          "date": "2025-07-15",
+          "task": "LVP",
+          "phase": "flooring"
+        },
+        {
+          "date": "2025-07-16",
+          "task": "Trim",
+          "phase": "finishing"
+        },
+        {
+          "date": "2025-07-17",
+          "task": "Paint",
+          "phase": "painting"
+        },
+        {
+          "date": "2025-07-18",
+          "task": "Paint",
+          "phase": "painting"
+        },
+        {
+          "date": "2025-07-21",
+          "task": "Paint",
+          "phase": "painting"
+        },
+        {
+          "date": "2025-07-22",
+          "task": "Cabinet Install",
+          "phase": "cabinets"
+        },
+        {
+          "date": "2025-07-23",
+          "task": "C-Tops/B-Splsh",
+          "phase": "cabinets"
+        },
+        {
+          "date": "2025-07-24",
+          "task": "C-Tops/B-Splsh",
+          "phase": "cabinets"
+        },
+        {
+          "date": "2025-07-25",
+          "task": "Finish Plumbing",
+          "phase": "plumbing"
+        }
+      ]
+    },
+    {
+      "project_id": "4732",
       "address": "4732 W Quinault",
-      "customer_name": "Unknown",
+      "community": "Canal  Landing",
+      "lots": "Lots 13",
       "sqft": "2648",
-      "current_phase": "plumbing",
-      "completion_percentage": 68.6,
+      "features": "1-Car",
+      "column_index": 120,
       "schedule": [
         {
           "date": "2025-06-09",
@@ -1576,13 +1587,14 @@
         }
       ]
     },
-    "Canal_Landing_4738_W_Quinault": {
-      "community": "Canal  Landing",
+    {
+      "project_id": "4738",
       "address": "4738 W Quinault",
-      "customer_name": "Unknown",
+      "community": "Canal  Landing",
+      "lots": "14",
       "sqft": "2648",
-      "current_phase": "plumbing",
-      "completion_percentage": 68.6,
+      "features": "1-Car",
+      "column_index": 120,
       "schedule": [
         {
           "date": "2025-06-09",
@@ -1761,13 +1773,14 @@
         }
       ]
     },
-    "Canal_Landing_4744_W_Quinault": {
-      "community": "Canal  Landing",
+    {
+      "project_id": "4744",
       "address": "4744 W Quinault",
-      "customer_name": "Unknown",
+      "community": "Canal  Landing",
+      "lots": "Lots 11",
       "sqft": "2648",
-      "current_phase": "framing",
-      "completion_percentage": 56.0,
+      "features": "1-Car",
+      "column_index": 121,
       "schedule": [
         {
           "date": "2025-06-23",
@@ -1896,13 +1909,14 @@
         }
       ]
     },
-    "Canal_Landing_4750_W_Quinault": {
-      "community": "Canal  Landing",
+    {
+      "project_id": "4750",
       "address": "4750 W Quinault",
-      "customer_name": "Unknown",
+      "community": "Canal  Landing",
+      "lots": "12",
       "sqft": "2648",
-      "current_phase": "framing",
-      "completion_percentage": 56.0,
+      "features": "1-Car",
+      "column_index": 121,
       "schedule": [
         {
           "date": "2025-06-23",
@@ -2031,13 +2045,14 @@
         }
       ]
     },
-    "Canal_Landing_1148_W_Quinault": {
-      "community": "Canal  Landing",
+    {
+      "project_id": "1148",
       "address": "1148 W Quinault",
-      "customer_name": "Unknown",
+      "community": "Canal  Landing",
+      "lots": "Lots 3",
       "sqft": "2648",
-      "current_phase": "other",
-      "completion_percentage": 26.7,
+      "features": "1-Car",
+      "column_index": 122,
       "schedule": [
         {
           "date": "2025-07-04",
@@ -2116,13 +2131,14 @@
         }
       ]
     },
-    "Canal_Landing_1152_W_Quinault": {
-      "community": "Canal  Landing",
+    {
+      "project_id": "1152",
       "address": "1152 W Quinault",
-      "customer_name": "Unknown",
+      "community": "Canal  Landing",
+      "lots": "4",
       "sqft": "2648",
-      "current_phase": "other",
-      "completion_percentage": 26.7,
+      "features": "1-Car",
+      "column_index": 122,
       "schedule": [
         {
           "date": "2025-07-04",
@@ -2201,16 +2217,5 @@
         }
       ]
     }
-  },
-  "summary": {
-    "totalProjects": 16,
-    "phases": {
-      "other": 4,
-      "move": 4,
-      "cabinets": 2,
-      "drywall": 2,
-      "plumbing": 2,
-      "framing": 2
-    }
-  }
+  ]
 }
